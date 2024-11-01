@@ -1,0 +1,36 @@
+== Changelog ==
+
+= 1.0.6 - 2023-02-06 =
+* Fix - Blank screen on update in some devices
+
+= 1.0.5 - 2023-02-06 =
+* Fix - Stats consent model issue
+* Fix - Fatal error issue with API controller loader
+* Enhancement - Added supports demo import for themes using Import/Export module
+
+= 1.0.4 - 2022-12-05 =
+* Add - Settings Page
+* Add - Store Manager
+* Fix - Set current admin submenu selected
+* Fix - Make strings translatable
+* Fix - Minor issues fix with Google Fonts module
+
+= 1.0.3 - 2022-08-08 =
+* Add - Custom Scripts module
+* Add - Admin menu icon
+* Fix - Fix admin css issues
+* Enhancement - Move Store directory to WordPress Uploads directory
+* Enhancement - Update readme.txt
+
+= 1.0.2 - 2022-07-31 =
+* Enhancement - Change plugin icon
+* Enhancement - Update Screenshots
+* General - Fix minor issues
+
+= 1.0.1 - 2022-07-31 =
+* Enhancement - Add plugin description and banner images
+* General - Fix minor issues
+
+= 1.0.0 - 2022-07-31 =
+* Initial release
+
